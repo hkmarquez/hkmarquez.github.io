@@ -19,7 +19,7 @@ const mediaIcons = [
             <IconContext.Provider value = {{color: '#0077B5', size: '4em'}}>
                 <FaLinkedin />
             </IconContext.Provider>,
-        link: "https://www.linkedin.com/in/kirby-marquez-0804b0222/"
+        link: "https://www.linkedin.com/in/hans-marquez-0804b0222/"
     },
     {
         image: 
@@ -32,7 +32,7 @@ const mediaIcons = [
         image: <IconContext.Provider value = {{ attr: {fill: '#962fbf'}, size: '4em'}}>          
                     <FaSquareInstagram />
                 </IconContext.Provider>,
-        link: "https://www.instagram.com/kirbymarquez_/"
+        link: "https://www.instagram.com/h_kirby_m/"
     }
 ]
 
