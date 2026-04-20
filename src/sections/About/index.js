@@ -73,7 +73,7 @@ function About ({setState, divider, state, aboutRef}){
                         }}>
                             I am a Software Developer specializing in database development, information technology, and accounting.
                             I hope to create working applications to make processes more efficient! 
-                            My most recent experience includes automating policy data at Forward Insurance.
+                            My most recent experience is at Real Time Networks as a Software Support Technician.
                         </motion.p>
                     </div>
                     <div className = "illustration-container-logo">
