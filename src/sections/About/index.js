@@ -71,7 +71,7 @@ function About ({setState, divider, state, aboutRef}){
                             visible: opacityAnimation,
                             hidden: {opacity: 0, left: "-300px"}
                         }}>
-                            I am a Software Developer specializing in database development, information technology, and accounting.
+                            I am a technical developer specializing in software development, and information technology.
                             I hope to create working applications to make processes more efficient! 
                             My most recent experience is at Westland Insurance as a Configuration Analyst.
                         </motion.p>
