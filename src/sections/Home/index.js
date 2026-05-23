@@ -71,7 +71,7 @@ const occupationAnimationStyle = {
                 <motion.h1 
                 className = "name-container"
                 animate = {nameAnimationStyle}>
-                    KIRBY MARQUEZ
+                    HANS MARQUEZ
                 </motion.h1>
                 <motion.h2
                 className = "occupation-container"
